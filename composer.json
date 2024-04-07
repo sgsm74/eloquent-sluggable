@@ -22,7 +22,7 @@
         "cocur/slugify": "^4.3",
         "illuminate/config": "^11.0",
         "illuminate/database": "^11.0",
-        "illuminate/support": "^11.0"
+        "laravel/framework": "^10.0",
     },
     "require-dev": {
         "mockery/mockery": "^1.4.4",
